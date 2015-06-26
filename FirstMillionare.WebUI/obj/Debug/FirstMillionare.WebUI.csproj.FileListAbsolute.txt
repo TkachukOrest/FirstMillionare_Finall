@@ -1,0 +1,48 @@
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare\FirstMillionare.WebUI\bin\FirstMillionare.WebUI.dll.config
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare\FirstMillionare.WebUI\bin\FirstMillionare.WebUI.dll
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare\FirstMillionare.WebUI\bin\FirstMillionare.WebUI.pdb
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare\FirstMillionare.WebUI\bin\FirstMillionare.Domain.dll
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare\FirstMillionare.WebUI\bin\FirstMillionare.Domain.pdb
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare\FirstMillionare.WebUI\obj\Debug\FirstMillionare.WebUI.csprojResolveAssemblyReference.cache
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare\FirstMillionare.WebUI\obj\Debug\FirstMillionare.WebUI.dll
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare\FirstMillionare.WebUI\obj\Debug\FirstMillionare.WebUI.pdb
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare\FirstMillionare.WebUI\bin\EntityFramework.dll
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare\FirstMillionare.WebUI\bin\EntityFramework.xml
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare\FirstMillionare.WebUI\bin\EntityFramework.SqlServer.dll
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare\FirstMillionare.WebUI\bin\EntityFramework.SqlServer.xml
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall\FirstMillionare.WebUI\bin\FirstMillionare.WebUI.dll.config
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall\FirstMillionare.WebUI\bin\FirstMillionare.WebUI.dll
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall\FirstMillionare.WebUI\bin\FirstMillionare.WebUI.pdb
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall\FirstMillionare.WebUI\bin\EntityFramework.dll
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall\FirstMillionare.WebUI\bin\EntityFramework.SqlServer.dll
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall\FirstMillionare.WebUI\bin\FirstMillionare.Domain.dll
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall\FirstMillionare.WebUI\bin\FirstMillionare.Domain.pdb
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall\FirstMillionare.WebUI\bin\EntityFramework.xml
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall\FirstMillionare.WebUI\bin\EntityFramework.SqlServer.xml
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall\FirstMillionare.WebUI\obj\Debug\FirstMillionare.WebUI.csprojResolveAssemblyReference.cache
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall\FirstMillionare.WebUI\obj\Debug\FirstMillionare.WebUI.dll
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall\FirstMillionare.WebUI\obj\Debug\FirstMillionare.WebUI.pdb
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall try with form\FirstMillionare.WebUI\bin\FirstMillionare.WebUI.dll.config
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall try with form\FirstMillionare.WebUI\bin\FirstMillionare.WebUI.dll
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall try with form\FirstMillionare.WebUI\bin\FirstMillionare.WebUI.pdb
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall try with form\FirstMillionare.WebUI\bin\EntityFramework.dll
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall try with form\FirstMillionare.WebUI\bin\EntityFramework.SqlServer.dll
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall try with form\FirstMillionare.WebUI\bin\FirstMillionare.Domain.dll
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall try with form\FirstMillionare.WebUI\bin\FirstMillionare.Domain.pdb
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall try with form\FirstMillionare.WebUI\bin\EntityFramework.xml
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall try with form\FirstMillionare.WebUI\bin\EntityFramework.SqlServer.xml
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall try with form\FirstMillionare.WebUI\obj\Debug\FirstMillionare.WebUI.csprojResolveAssemblyReference.cache
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall try with form\FirstMillionare.WebUI\obj\Debug\FirstMillionare.WebUI.dll
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall try with form\FirstMillionare.WebUI\obj\Debug\FirstMillionare.WebUI.pdb
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall with form\FirstMillionare.WebUI\bin\FirstMillionare.WebUI.dll.config
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall with form\FirstMillionare.WebUI\bin\FirstMillionare.WebUI.dll
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall with form\FirstMillionare.WebUI\bin\FirstMillionare.WebUI.pdb
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall with form\FirstMillionare.WebUI\bin\EntityFramework.dll
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall with form\FirstMillionare.WebUI\bin\EntityFramework.SqlServer.dll
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall with form\FirstMillionare.WebUI\bin\FirstMillionare.Domain.dll
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall with form\FirstMillionare.WebUI\bin\FirstMillionare.Domain.pdb
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall with form\FirstMillionare.WebUI\bin\EntityFramework.xml
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall with form\FirstMillionare.WebUI\bin\EntityFramework.SqlServer.xml
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall with form\FirstMillionare.WebUI\obj\Debug\FirstMillionare.WebUI.csprojResolveAssemblyReference.cache
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall with form\FirstMillionare.WebUI\obj\Debug\FirstMillionare.WebUI.dll
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall with form\FirstMillionare.WebUI\obj\Debug\FirstMillionare.WebUI.pdb

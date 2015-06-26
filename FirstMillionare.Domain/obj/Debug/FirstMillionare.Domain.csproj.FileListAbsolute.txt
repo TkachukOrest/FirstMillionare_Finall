@@ -1,0 +1,28 @@
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare\FirstMillionare.Domain\bin\Debug\FirstMillionare.Domain.dll.config
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare\FirstMillionare.Domain\bin\Debug\FirstMillionare.Domain.dll
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare\FirstMillionare.Domain\bin\Debug\FirstMillionare.Domain.pdb
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare\FirstMillionare.Domain\bin\Debug\EntityFramework.dll
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare\FirstMillionare.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare\FirstMillionare.Domain\bin\Debug\EntityFramework.xml
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare\FirstMillionare.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare\FirstMillionare.Domain\obj\Debug\FirstMillionare.Domain.dll
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare\FirstMillionare.Domain\obj\Debug\FirstMillionare.Domain.pdb
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare\FirstMillionare.Domain\obj\Debug\FirstMillionare.Domain.csprojResolveAssemblyReference.cache
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall try with form\FirstMillionare.Domain\bin\Debug\FirstMillionare.Domain.dll.config
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall try with form\FirstMillionare.Domain\bin\Debug\FirstMillionare.Domain.dll
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall try with form\FirstMillionare.Domain\bin\Debug\FirstMillionare.Domain.pdb
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall try with form\FirstMillionare.Domain\bin\Debug\EntityFramework.dll
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall try with form\FirstMillionare.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall try with form\FirstMillionare.Domain\bin\Debug\EntityFramework.xml
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall try with form\FirstMillionare.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall try with form\FirstMillionare.Domain\obj\Debug\FirstMillionare.Domain.dll
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall try with form\FirstMillionare.Domain\obj\Debug\FirstMillionare.Domain.pdb
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall with form\FirstMillionare.Domain\bin\Debug\FirstMillionare.Domain.dll.config
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall with form\FirstMillionare.Domain\bin\Debug\FirstMillionare.Domain.dll
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall with form\FirstMillionare.Domain\bin\Debug\FirstMillionare.Domain.pdb
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall with form\FirstMillionare.Domain\bin\Debug\EntityFramework.dll
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall with form\FirstMillionare.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall with form\FirstMillionare.Domain\bin\Debug\EntityFramework.xml
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall with form\FirstMillionare.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall with form\FirstMillionare.Domain\obj\Debug\FirstMillionare.Domain.dll
+D:\Programming\Programming_EPAM_WEB\WEB ASP.NET\First Millionare finall with form\FirstMillionare.Domain\obj\Debug\FirstMillionare.Domain.pdb

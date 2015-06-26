@@ -1,0 +1,113 @@
+﻿Body {
+    font-family: Cambria, Georgia, "Courier New";
+    background-color: #D2E8FD;
+    color: #00174D;
+    display: block;
+}
+
+#main {
+    display: block;
+    text-align: -webkit-center;
+    background-color: #A1B1C0;
+    width: 670px;
+    margin: auto;
+    margin-top: 10%;
+}
+
+    #main .header {
+        background-color: #004263;
+        border-bottom: 2px solid #D2E8FD;
+        width: 100%;
+        height: 40px;
+    }
+
+        #main .header .title-name {
+            color: #D2E8FD;
+            float: left;
+            width: 70%;
+            margin: 0.4em 0 0.5em 1em;
+            color: #D2E8FD;
+            text-transform: uppercase;
+            color: #D2E8FD;
+            font-family: 'Josefin Sans', sans-serif;
+            font-size: 21px;
+            text-shadow: 1px 2px 0 #2DCDD8;           
+        }
+
+        #main .header .buttons {
+            margin-left: 75%;
+            padding: 0.1em;
+        }
+
+    #main .game-field {
+        padding: 1em;
+        float: left;
+        width: 70%;
+        background: #A1B1C0;
+    }
+
+    #main .sums {
+        border-left: 2px solid #D2E8FD;
+        color: #D2E8FD;
+        margin-left: 75%;
+        padding: 0.1em;
+        background: #004263;
+    }
+
+    #main .rblOptions {
+        width: 90%;
+        margin: auto;
+        vertical-align: central;
+        margin: auto;
+    }
+
+    #main .pro-button {
+        font-weight: 700;
+        color: #00174D;
+        text-decoration: none;
+        padding: .4em 1em calc(.4em + 3px);
+        border-radius: 3px;
+        background: #D2E8FD;
+        box-shadow: 0 -3px #A1B1C0 inset;
+        transition: 0.2s;
+    }
+
+        #main .pro-button:hover {
+            background: #767CA0;
+        }
+
+        #main .pro-button:active {
+            background: #767CA0;
+            box-shadow: 0 3px #A1B1C0 inset;
+        }
+
+    #main .img-button {
+        width: 35px;
+        height: 35px;
+        cursor: pointer;
+        border-radius: 50%;
+        text-align: center;
+        background-color: #D2E8FD;
+    }
+
+        #main .img-button:hover {
+            background: #2DCDD8;
+        }
+
+        #main .img-button img {
+            width: 25px;
+            height: 25px;
+            margin-left: -3px;
+        }
+
+#main .game-field .footer
+{    
+    width:300px;
+    color:#D2E8FD;
+    background:#004263;
+}
+
+#main .game-field .footer input
+{    
+    width:180px;
+}
