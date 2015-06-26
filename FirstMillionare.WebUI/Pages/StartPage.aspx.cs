@@ -28,9 +28,9 @@ namespace FirstMillionare.WebUI.Pages
 
         protected void Page_Load(object sender, EventArgs e)
         {
+            ClientScript.RegisterHiddenField(DDL_THEMES_ID_KEY, ddlThemes.UniqueID);
             if (!IsPostBack)
             {
-                ClientScript.RegisterHiddenField(DDL_THEMES_ID_KEY, ddlThemes.UniqueID);
                 VisualizeThemes();
             }
         }
